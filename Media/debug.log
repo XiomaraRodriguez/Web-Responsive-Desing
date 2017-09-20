@@ -1,0 +1,6 @@
+[0919/104644.460:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Tooleat\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0919/104644.463:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0919/104644.464:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Tooleat\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0919/104654.595:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Tooleat\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0919/104654.596:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0919/104654.597:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Tooleat\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
